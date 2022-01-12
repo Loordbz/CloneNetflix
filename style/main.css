@@ -15,7 +15,7 @@
 
 body /*elementos base*/
 {
-    background: linear-gradient(rgba(0, 0, 0, .30),rgba(0,0,0,.30)100%), url('/img/Boojack-capa.jpg'); 
+    background: linear-gradient(rgba(0, 0, 0, .30),rgba(0,0,0,.30)100%), url(/img/Boojack-capa.jpg);
     font-family: arial;
     color: white;
 }
@@ -113,7 +113,6 @@ header .container /*Propriedades do cabeçalho*/
 
 .movie-main /*tamanho do fundo*/
 {
-    
     background-size:cover;
     font-size: 16px;
     height: 900px;

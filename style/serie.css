@@ -1,0 +1,18 @@
+body
+{
+    background: black;
+    
+}
+
+body .text
+{
+    margin: 10px 50px;
+    color: red;
+    font-size:70px;
+    border: 1px solid orange;
+    padding: 55px 10px;
+    width: 600px;
+    height: 400px;
+    margin-left: 300px;
+    
+}
